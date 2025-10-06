@@ -65,7 +65,6 @@ body {
   transition: transform 0.3s;
 }
 
-/* === Responsive Typography === */
 @media (max-width:600px) {
   body { font-size: 14px; }
   h2 { font-size: 20px; }
